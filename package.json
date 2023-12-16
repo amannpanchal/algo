@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ant-design/icons": "^5.2.6",
+    "@ant-design/pro-layout": "^7.17.16",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -10,8 +12,11 @@
     "@types/node": "^16.18.68",
     "@types/react": "^18.2.45",
     "@types/react-dom": "^18.2.17",
+    "antd": "^5.12.2",
+    "moment": "^2.29.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
